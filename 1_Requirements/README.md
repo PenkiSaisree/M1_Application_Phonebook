@@ -32,20 +32,21 @@ Show contact Details: You can see the list of phone numbers along with their nam
 ![SWOT-Sample](Link to Pic)
 
 # 4W's and 1'H
-## Who:
-TBD
+## Who: 
+<br>Phonebook
 
 ## What:
-TBD
+<br>The success of mobile phones seems easy to explain: being available anytime and anywhere.
 
 ## When:
-TBD
+<br>When a person want a contact details of a particular person they will see by manually & it reduces lot of work.
 
 ## Where:
-TBD
+<br>We can see this in every person phonebook.
 
 ## How:
-TBD
+<br>By creating a contact details by using add, viewing data, searching, removing,updating etc.
+
 
 # Detail requirements
 ## High Level Requirements:

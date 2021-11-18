@@ -8,3 +8,31 @@ Personal information such as name, gender, father’s name, phone number, citize
 ## Feature
 The features are explained as follows. 
 Show contact Details: You can see the list of phone numbers along with their names such as contact name, Email, DOB, Gender, Citizen no. etc. using this feature. This feature shows you the contact list. All the contacts are shown one by one in a list. Add contacts: This feature allows you to add a new contact to the contacts-list of the Phonebook application.
+
+# Defining Our System
+-- TBD
+# SWOT ANALYSIS
+![SWOT-Sample](Link to Pic)
+
+# 4W's and 1'H
+## Who:
+TBD
+
+## What:
+TBD
+
+## When:
+TBD
+
+## Where:
+TBD
+
+## How:
+TBD
+
+# Detail requirements
+## High Level Requirements:
+--- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+
+## Low level Requirements:
+--- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)

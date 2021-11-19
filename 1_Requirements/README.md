@@ -68,9 +68,18 @@ The schedule determines when work elements (activities) are to be completed, mil
 <br>By creating a contact details by using add, viewing data, searching, removing,updating etc.
 
 
-# Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+# High level requirements
+| ID | Description | Status |
+| -------- | -------- | -------- |
+| Email | We can give a Emails in Phonebook. | Future |
+| DOB | We can add the person DOB in Phonebook. | Future |
+| Address | There is a possibility to adding a addresse's into Phonebook. | Future |
+| Gender | We can declare a person whether he/she male or female. | Future |
+| Parents | We can give a person mother & father details. | Future |
 
-## Low level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+# Low level requirements
+| ID | Description | Status |
+| -------- | -------- | -------- |
+| Name | We can add a name of a respective person. | Future |
+| Phone number | Add a Phone numbers of a persons. | Future |
+

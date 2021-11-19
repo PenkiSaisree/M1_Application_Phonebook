@@ -12,11 +12,11 @@ Personal information such as name, gender, father’s name, phone number, citize
 The schedule determines when work elements (activities) are to be completed, milestones achieved, and when the project should be completed. The budget determines how much each work element should cost, the cost of each level of the work breakdown schedule (WBS), and how much the total project should cost.
 
 ## 2.Feature
-**-->** The features are explained as follows. 
-            <br>     *** Show contact Details: You can see the list of phone numbers along with their names such as contact name, Email, DOB, Gender, Citizen no. etc. using this feature. This feature shows you the contact list. All the contacts are shown one by one in a list. Add contacts: This feature allows you to add a new contact to the contacts-list of the Phonebook application.
+* The features are explained as follows-
+            <br> - Show contact Details: You can see the list of phone numbers along with their names such as contact name, Email, DOB, Gender, Citizen no. etc. using this feature. This feature shows you the contact list. All the contacts are shown one by one in a list. Add contacts: This feature allows you to add a new contact to the contacts-list of the Phonebook application.
 
---> The operations we perform here are -
-```sh add contact()
+* The operations we perform here are -
+``` add contact()
       view contact()
       Search contact()
       remove contact()
@@ -24,15 +24,19 @@ The schedule determines when work elements (activities) are to be completed, mil
       delete contact()
 ```
       
-
 # III. Defining Our System
-**-->** The main idea of the program is to increase the awareness of working with computer systems and utilize computer resources for better result orientation. The main target behind the creation of this package is to remove the pressure from the user to learn about computer & software. It helps to maintain an automatic communication between the computer and the user. <br>
-**-->** This Program “Phonebook application” facility the user with different records can add and search easily by using Button tools & Search options. 
+<br>
+* The main idea of the program is to increase the awareness of working with computer systems and utilize computer resources for better result orientation. The main target behind the creation of this package is to remove the pressure from the user to learn about computer & software. It helps to maintain an automatic communication between the computer and the user. 
+<br>
+* This Program “Phonebook application” facility the user with different records can add and search easily by using Button tools & Search options. 
 <br>
 # IV. SWOT ANALYSIS
-![image of the SWOT](https://www.appaspect.com/wp-content/uploads/SWOT-Analysis-2.png)
+<br>
+![image of the SWOT](https://www.appaspect.com/wp-content/uploads/SWOT-Analysis-2.png) <br>
 
-**-->** The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
+* The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
+<br>
+
 ## Strengths-
 **1.** It becomes easy for the user to store complete information like Name, Phone no., Mail ID, Address, etc. about his contact.<br>
 **2.** Easy for the user to just search his required contact no. by just typing name of the contact.
@@ -71,11 +75,11 @@ The schedule determines when work elements (activities) are to be completed, mil
 # High level requirements
 | ID | Description | Status |
 | -------- | -------- | -------- |
-| Email | We can give a Emails in Phonebook. | Future |
+| Email | Giving a respective emails of a person to thier contacts. | Future |
 | DOB | We can add the person DOB in Phonebook. | Future |
 | Address | There is a possibility to adding a addresse's into Phonebook. | Future |
 | Gender | We can declare a person whether he/she male or female. | Future |
-| Parents | We can give a person mother & father details. | Future |
+| Parents | We can give a person mother & father names. | Future |
 
 # Low level requirements
 | ID | Description | Status |

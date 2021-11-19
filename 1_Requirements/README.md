@@ -26,7 +26,7 @@ The schedule determines when work elements (activities) are to be completed, mil
       
 
 # III. Defining Our System
-**-->** The main idea of the program is to increase the awareness of working with computer systems and utilize computer resources for better result orientation. The main target behind the creation of this package is to remove the pressure from the user to learn about computer & software. It helps to maintain an automatic communication between the computer and the user. 
+**-->** The main idea of the program is to increase the awareness of working with computer systems and utilize computer resources for better result orientation. The main target behind the creation of this package is to remove the pressure from the user to learn about computer & software. It helps to maintain an automatic communication between the computer and the user. <br>
 **-->** This Program “Phonebook application” facility the user with different records can add and search easily by using Button tools & Search options. 
 <br>
 # IV. SWOT ANALYSIS

@@ -30,14 +30,13 @@ The schedule determines when work elements (activities) are to be completed, mil
 <br>
 * This Program “Phonebook application” facility the user with different records can add and search easily by using Button tools & Search options. 
 <br>
+
 # IV. SWOT ANALYSIS
-<br>
 ![image of the SWOT](https://www.appaspect.com/wp-content/uploads/SWOT-Analysis-2.png) <br>
 
 * The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
-<br>
 
-## Strengths-
+## Strengths- <br>
 **1.** It becomes easy for the user to store complete information like Name, Phone no., Mail ID, Address, etc. about his contact.<br>
 **2.** Easy for the user to just search his required contact no. by just typing name of the contact.
 <br> 
@@ -57,19 +56,19 @@ The schedule determines when work elements (activities) are to be completed, mil
 <br>
 
 ## Who: 
-<br>Phonebook
+<br>* Phonebook
 
 ## What:
-<br>The success of mobile phones seems easy to explain: being available anytime and anywhere.
+<br>* The success of mobile phones seems easy to explain: being available anytime and anywhere.
 
 ## When:
-<br>When a person want a contact details of a particular person they will see by manually & it reduces lot of work.
+<br>* When a person want a contact details of a particular person they will see by manually & it reduces lot of work.
 
 ## Where:
-<br>We can see this in every person phonebook.
+<br>* We can see this in every person phonebook.
 
 ## How:
-<br>By creating a contact details by using add, viewing data, searching, removing,updating etc.
+<br>* By creating a contact details by using add, viewing data, searching, removing,updating etc.
 
 
 # High level requirements

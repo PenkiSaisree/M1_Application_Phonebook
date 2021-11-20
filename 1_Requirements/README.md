@@ -25,50 +25,54 @@ The schedule determines when work elements (activities) are to be completed, mil
 ```
       
 # III. Defining Our System
-<br>
 * The main idea of the program is to increase the awareness of working with computer systems and utilize computer resources for better result orientation. The main target behind the creation of this package is to remove the pressure from the user to learn about computer & software. It helps to maintain an automatic communication between the computer and the user. 
-<br>
 * This Program “Phonebook application” facility the user with different records can add and search easily by using Button tools & Search options. 
 <br>
 
 # IV. SWOT ANALYSIS
-![image of the SWOT](https://www.appaspect.com/wp-content/uploads/SWOT-Analysis-2.png) <br>
+![image of the SWOT](https://www.appaspect.com/wp-content/uploads/SWOT-Analysis-2.png) 
 
 * The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
 
-## Strengths- <br>
-**1.** It becomes easy for the user to store complete information like Name, Phone no., Mail ID, Address, etc. about his contact.<br>
+## Strengths- 
+**1.** It becomes easy for the user to store complete information like Name, Phone no., Mail ID, Address, etc. about his contact.
+
 **2.** Easy for the user to just search his required contact no. by just typing name of the contact.
-<br> 
+
 ## Weaknesses-
-**1.** Sometimes it becomes difficult to store more contacts.<br>
+**1.** Sometimes it becomes difficult to store more contacts.
+
 **2.** It becomes even difficult to store contacts with two or more contact numbers.
-<br>
+
 ## Opportunities-
-**1.** Fast speed data processing.<br>
-**2.** It simplify the task and reduce the paper work.<br>
-**3.** System is very user friendly.<br>
+**1.** Fast speed data processing.
+
+**2.** It simplify the task and reduce the paper work.
+
+**3.** System is very user friendly.
+
 ## Threats-
-**1.** Data Leakage via Malicious Apps.<br>
-**2.** Physical threats to mobile devices most commonly refer to the loss or theft of a device.<br>
+**1.** Data Leakage via Malicious Apps.
+
+**2.** Physical threats to mobile devices most commonly refer to the loss or theft of a device.
 
 # V. 4W's and 1'H
-<br>
+
 
 ## Who: 
-<br>* Phonebook
+* Phonebook
 
 ## What:
-<br>* The success of mobile phones seems easy to explain: being available anytime and anywhere.
+* The success of mobile phones seems easy to explain: being available anytime and anywhere.
 
 ## When:
-<br>* When a person want a contact details of a particular person they will see by manually & it reduces lot of work.
+* When a person want a contact details of a particular person they will see by manually & it reduces lot of work.
 
 ## Where:
-<br>* We can see this in every person phonebook.
+* We can see this in every person phonebook.
 
 ## How:
-<br>* By creating a contact details by using add, viewing data, searching, removing,updating etc.
+* By creating a contact details by using add, viewing data, searching, removing,updating etc.
 
 
 # High level requirements

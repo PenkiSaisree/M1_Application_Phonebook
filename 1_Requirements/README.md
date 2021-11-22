@@ -87,6 +87,6 @@ The schedule determines when work elements (activities) are to be completed, mil
 # Low level requirements
 | ID | Description | Status |
 | -------- | -------- | -------- |
-| Name | We can add a name of a respective person. | Future |
-| Phone number | Add a Phone numbers of a persons. | Future |
+| Name | We can add a name of a respective person. | Implemented |
+| Phone number | Add a Phone numbers of a persons. | Implemented |
 

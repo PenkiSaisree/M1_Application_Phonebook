@@ -6,12 +6,10 @@ Personal information such as name, gender, father’s name, phone number, citize
 ## Research
 [Refer to this link](https://1000projects.org/phonebook-application-c-project-report.html) --refered site
 
-# Cost, Features and Timeline
-
-## Cost
+# Cost
 The schedule determines when work elements (activities) are to be completed, milestones achieved, and when the project should be completed. The budget determines how much each work element should cost, the cost of each level of the work breakdown schedule (WBS), and how much the total project should cost.
 
-## Feature
+# Feature
 * The features are explained as follows-
   - Show contact Details: You can see the list of phone numbers along with their names such as contact name, Email, DOB, Gender, Citizen no. etc. using this feature. This feature shows you the contact list. All the contacts are shown one by one in a list. Add contacts: This feature allows you to add a new contact to the contacts-list of the Phonebook application.
 

@@ -30,8 +30,7 @@ The schedule determines when work elements (activities) are to be completed, mil
 <br>
 
 # IV. SWOT ANALYSIS
-![image of the SWOT](https://www.appaspect.com/wp-content/uploads/SWOT-Analysis-2.png) 
-
+ 
 * The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
 
 ## Strengths- 

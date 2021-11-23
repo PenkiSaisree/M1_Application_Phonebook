@@ -7,7 +7,8 @@ Personal information such as name, gender, father’s name, phone number, citize
 [Refer to this link](https://1000projects.org/phonebook-application-c-project-report.html) --refered site
 
 # Cost
-The schedule determines when work elements (activities) are to be completed, milestones achieved, and when the project should be completed. The budget determines how much each work element should cost, the cost of each level of the work breakdown schedule (WBS), and how much the total project should cost.
+* The schedule determines when work elements (activities) are to be completed, milestones achieved, and when the project should be completed. 
+* The budget determines how much each work element should cost, the cost of each level of the work breakdown schedule (WBS), and how much the total project should cost.
 
 # Feature
 * The features are explained as follows-

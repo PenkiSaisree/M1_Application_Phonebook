@@ -104,7 +104,7 @@ By creating a contact details by using add, viewing data, searching, removing,up
 | Name | We can add a name of a respective person. | Implemented |
 | Phone number | Add a Phone numbers of a persons. | Implemented |
 
-# Design
+## Design
 
 ## Behavioural Diagram
 
@@ -119,7 +119,7 @@ By creating a contact details by using add, viewing data, searching, removing,up
 --> The structure phonebook application has different operations as Add Contact, View Contact, Search Contact, Update Contact, Delete Contact.<br>
 ``` NOTE: The diagram of Structural is keep it in image file for reference.```
 
-# Implementation
+## Implementation
 
 ## Folder Structure
 Folder         | description
@@ -130,7 +130,7 @@ Folder         | description
 `unity`        | All unity files     
 `build`        | Build output(not included in git)
 
-# TEST PLAN
+## TEST PLAN
 
 ## Table no- High level test plan
 
@@ -148,7 +148,7 @@ Folder         | description
 |  L_02       | User can edit the person contact details | Enter updated phone number or name of a contact. | Updated successfully | Updated successfully | Scenario based |
 |  L_03       | User can remove the contact details of a person. | Entered into the person contact & delete. | Deleted successfully | Deleted successfully | Boundary based |
 
-# M1_Application_Phonebook
+## M1_Application_Phonebook
 
 [![Unit_Testing](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Unittesting.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Unittesting.yml)
 
@@ -160,6 +160,6 @@ Folder         | description
 
 [![Windows C/C++ CI](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/windows_c-cpp.yml)
 
-# Conclusion
+## Conclusion
 
 Here the language used is C language and this application is used to search, delete, modify and some functions which is used to remember our family and friends details more easily.

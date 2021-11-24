@@ -4,7 +4,7 @@
 
 [![Static code Cppcheck](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/cppcheck.yml)
 
-[![Linux OS Build](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/build-linux.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/build-linux.yml)
+[![Linux OS Build](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Build_linux.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Build_linux.yml)
 
 [![Git Inspector](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/gitinspector.yml)
 

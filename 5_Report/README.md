@@ -148,6 +148,20 @@ Folder         | description
 |  L_02       | User can edit the person contact details | Enter updated phone number or name of a contact. | Updated successfully | Updated successfully | Scenario based |
 |  L_03       | User can remove the contact details of a person. | Entered into the person contact & delete. | Deleted successfully | Deleted successfully | Boundary based |
 
+# M1_Application_Phonebook
+
+[![CI](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/build-linux.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/build-linux.yml)
+
+[![Unit_Testing](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Unittesting.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Unittesting.yml)
+
+[![Static code Cppcheck](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/cppcheck.yml)
+
+[![Linux OS Build](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/build-linux.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/build-linux.yml)
+
+[![Git Inspector](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/gitinspector.yml)
+
+[![Windows C/C++ CI](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/windows_c-cpp.yml)
+
 # Conclusion
 
 Here the language used is C language and this application is used to search, delete, modify and some functions which is used to remember our family and friends details more easily.

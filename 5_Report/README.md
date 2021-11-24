@@ -119,6 +119,18 @@ By creating a contact details by using add, viewing data, searching, removing,up
 --> The structure phonebook application has different operations as Add Contact, View Contact, Search Contact, Update Contact, Delete Contact.<br>
 ``` NOTE: The diagram of Structural is keep it in image file for reference.```
 
+# Implementation
+
+## Folder Structure
+Folder         | description
+-------------- | ----------------------------------------------
+`inc`          | All header files
+`src`          | Main source code for calculator
+`test`         | All source code and data for testing purposes
+`unity`        | All unity files     
+`build`        | Build output(not included in git)
+
+
 
 
 

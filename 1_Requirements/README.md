@@ -68,23 +68,23 @@ Physical threats to mobile devices most commonly refer to the loss or theft of a
 
 # 4W's and 1'H
 
-## Who:
+## Who
 
 Phonebook
 
-## What:
+## What
 
 The success of mobile phones seems easy to explain: being available anytime and anywhere.
 
-## When:
+## When
 
 When a person want a contact details of a particular person they will see by manually & it reduces lot of work.
 
-## Where:
+## Where
 
 We can see this in every person phonebook.
 
-## How:
+## How
 
 By creating a contact details by using add, viewing data, searching, removing,updating etc.
 

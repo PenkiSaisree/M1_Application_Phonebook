@@ -38,7 +38,7 @@ This Program “Phonebook application” facility the user with different record
 
 ## SWOT ANALYSIS
 
- The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
+The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
 
 ## Strengths- 
 

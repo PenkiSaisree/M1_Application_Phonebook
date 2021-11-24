@@ -4,3 +4,5 @@
 ![code grade](https://api.codiga.io/project/29866/status/svg)
 
 [![CI](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/build-linux.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/build-linux.yml)
+
+[![Unit_Testing](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Unittesting.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Unittesting.yml)

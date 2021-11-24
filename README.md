@@ -10,3 +10,4 @@
 
 [![Git Inspector](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/gitinspector.yml)
 
+[![Windows C/C++ CI](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/windows_c-cpp.yml)

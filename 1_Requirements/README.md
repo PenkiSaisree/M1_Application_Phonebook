@@ -24,6 +24,7 @@ Personal information such as name, gender, father’s name, phone number, citize
 ```
       
 # Defining Our System
+
 * The main idea of the program is to increase the awareness of working with computer systems and utilize computer resources for better result orientation. The main target behind the creation of this package is to remove the pressure from the user to learn about computer & software. It helps to maintain an automatic communication between the computer and the user. 
 
 
@@ -36,16 +37,19 @@ Personal information such as name, gender, father’s name, phone number, citize
 
 
 ## Strengths- 
+
 * It becomes easy for the user to store complete information like Name, Phone no., Mail ID, Address, etc. about his contact.
 
 * Easy for the user to just search his required contact no. by just typing name of the contact.
 
 ## Weaknesses-
+
 * Sometimes it becomes difficult to store more contacts.
 
 * It becomes even difficult to store contacts with two or more contact numbers.
 
 ## Opportunities-
+
 * Fast speed data processing.
 
 * It simplify the task and reduce the paper work.
@@ -53,34 +57,36 @@ Personal information such as name, gender, father’s name, phone number, citize
 * System is very user friendly.
 
 ## Threats-
+
 * Data Leakage via Malicious Apps.
 
 * Physical threats to mobile devices most commonly refer to the loss or theft of a device.
 
 # 4W's and 1'H
 
+## Who:
 
-## Who: 
 * Phonebook
 
-
 ## What:
+
 * The success of mobile phones seems easy to explain: being available anytime and anywhere.
 
-
 ## When:
+
 * When a person want a contact details of a particular person they will see by manually & it reduces lot of work.
 
-
 ## Where:
+
 * We can see this in every person phonebook.
 
-
 ## How:
+
 * By creating a contact details by using add, viewing data, searching, removing,updating etc.
 
 
 # High level requirements
+
 | ID | Description | Status |
 | -------- | -------- | -------- |
 | Email | Giving a respective emails of a person to thier contacts. | Future |
@@ -90,6 +96,7 @@ Personal information such as name, gender, father’s name, phone number, citize
 | Parents | We can give a person mother & father names. | Future |
 
 # Low level requirements
+
 | ID | Description | Status |
 | -------- | -------- | -------- |
 | Name | We can add a name of a respective person. | Implemented |

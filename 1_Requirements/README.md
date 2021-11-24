@@ -35,7 +35,6 @@ The main idea of the program is to increase the awareness of working with comput
 
 This Program “Phonebook application” facility the user with different records can add and search easily by using Button tools & Search options. 
 
-
 ## SWOT ANALYSIS
 
 The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
@@ -87,7 +86,6 @@ We can see this in every person phonebook.
 ## How
 
 By creating a contact details by using add, viewing data, searching, removing,updating etc.
-
 
 ## High level requirements
 

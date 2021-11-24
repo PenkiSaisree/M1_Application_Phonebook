@@ -36,7 +36,7 @@ The main idea of the program is to increase the awareness of working with comput
 This Program “Phonebook application” facility the user with different records can add and search easily by using Button tools & Search options. 
 
 
-# SWOT ANALYSIS
+## SWOT ANALYSIS
 
  The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
 
@@ -66,7 +66,7 @@ Data Leakage via Malicious Apps.
 
 Physical threats to mobile devices most commonly refer to the loss or theft of a device.
 
-# 4W's and 1'H
+## 4W's and 1'H
 
 ## Who
 
@@ -89,7 +89,7 @@ We can see this in every person phonebook.
 By creating a contact details by using add, viewing data, searching, removing,updating etc.
 
 
-# High level requirements
+## High level requirements
 
 | ID | Description | Status |
 | -------- | -------- | -------- |
@@ -99,7 +99,7 @@ By creating a contact details by using add, viewing data, searching, removing,up
 | Gender | We can declare a person whether he/she male or female. | Future |
 | Parents | We can give a person mother & father names. | Future |
 
-# Low level requirements
+## Low level requirements
 
 | ID | Description | Status |
 | -------- | -------- | -------- |

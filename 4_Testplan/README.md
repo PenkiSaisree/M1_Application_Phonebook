@@ -1,6 +1,6 @@
 # TEST PLAN
 
-## Table no: High level test plan
+## Table no- High level test plan
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
@@ -8,7 +8,7 @@
 |  H_02       | User can create a person contact details as name, phone number, Mail Id, Address, DOB. | Select the contact/Create the contact and add their details like name, Phone number, Mail ID, Address, DOB|Created successfully. | Created successfully | Scenario based |
 |  H_03       | User can update the person contact details. | Search contact name and update the details. | Updated successfully | Updated successfully | Boundary based |
 
-## Table no: Low level test plan
+## Table no- Low level test plan
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |  **Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|

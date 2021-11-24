@@ -103,4 +103,3 @@ By creating a contact details by using add, viewing data, searching, removing,up
 | -------- | -------- | -------- |
 | Name | We can add a name of a respective person. | Implemented |
 | Phone number | Add a Phone numbers of a persons. | Implemented |
-

@@ -1,6 +1,6 @@
 # Requirements
 
-## Introduction
+# Introduction
 
 Phone book application is primarily meant for keeping the records of the persons. It is estimated that there are more than 600 million mobile phone users around the world – and the number is increasing. The success of mobile phones seems easy to explain: being available anytime and anywhere.
 This application contains how to add, list, modify or edit, search and delete data to/from the file. Adding new records, listing them, modifying them and updating, search for contacts saved, and deleting the phonebook records are the basic functions which make up the main menu of this Phonebook application .
@@ -10,7 +10,7 @@ Personal information such as name, gender, father’s name, phone number, citize
 
 [Refer to this link](https://1000projects.org/phonebook-application-c-project-report.html) --refered site
 
-## Cost
+# Cost
 
 * The schedule determines when work elements (activities) are to be completed, milestones achieved, and when the project should be completed. 
 

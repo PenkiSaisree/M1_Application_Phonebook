@@ -1,12 +1,12 @@
 # Requirements
 
-## Introduction
+# Introduction
 
 Phone book application is primarily meant for keeping the records of the persons. It is estimated that there are more than 600 million mobile phone users around the world – and the number is increasing. The success of mobile phones seems easy to explain: being available anytime and anywhere.
 This application contains how to add, list, modify or edit, search and delete data to/from the file. Adding new records, listing them, modifying them and updating, search for contacts saved, and deleting the phonebook records are the basic functions which make up the main menu of this Phonebook application .
 Personal information such as name, gender, father’s name, phone number, citizenship number, email and address are asked while adding a record into the Phonebook. These records can then be modified, listed, searched for and removed.
 
-## Research
+# Research
 
 [Refer to this link](https://1000projects.org/phonebook-application-c-project-report.html) --refered site
 
@@ -43,19 +43,19 @@ Personal information such as name, gender, father’s name, phone number, citize
 * The SWOT analysis is to identify its internal *strengths* and *weaknesses*, as well as its external *opportunities* and *threats*.
 
 
-## Strengths- 
+# Strengths- 
 
 * It becomes easy for the user to store complete information like Name, Phone no., Mail ID, Address, etc. about his contact.
 
 * Easy for the user to just search his required contact no. by just typing name of the contact.
 
-## Weaknesses-
+# Weaknesses-
 
 * Sometimes it becomes difficult to store more contacts.
 
 * It becomes even difficult to store contacts with two or more contact numbers.
 
-## Opportunities-
+# Opportunities-
 
 * Fast speed data processing.
 
@@ -63,7 +63,7 @@ Personal information such as name, gender, father’s name, phone number, citize
 
 * System is very user friendly.
 
-## Threats-
+# Threats-
 
 * Data Leakage via Malicious Apps.
 
@@ -71,23 +71,23 @@ Personal information such as name, gender, father’s name, phone number, citize
 
 # 4W's and 1'H
 
-## Who:
+# Who:
 
 * Phonebook
 
-## What:
+# What:
 
 * The success of mobile phones seems easy to explain: being available anytime and anywhere.
 
-## When:
+# When:
 
 * When a person want a contact details of a particular person they will see by manually & it reduces lot of work.
 
-## Where:
+# Where:
 
 * We can see this in every person phonebook.
 
-## How:
+# How:
 
 * By creating a contact details by using add, viewing data, searching, removing,updating etc.
 

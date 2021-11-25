@@ -1,5 +1,7 @@
 # M1_Application_Phonebook
 
+[![CI](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/main.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/main.yml)
+
 [![Unit_testing](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Unit_testing.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/Unit_testing.yml)
 
 [![Static code Cppcheck](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/PenkiSaisree/M1_Application_Phonebook/actions/workflows/cppcheck.yml)

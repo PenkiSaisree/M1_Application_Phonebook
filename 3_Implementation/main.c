@@ -47,7 +47,6 @@ void menu()
 {
     system("cls");
 printf("\t\t**********WELCOME TO PHONEBOOK*************");
-
 printf("\n\n\t\t\t  MENU\t\t\n\n");
 printf("\t1.Add New   \t2.List   \t3.Exit  \n\t4.Modify \t5.Search\t6.Delete");
 

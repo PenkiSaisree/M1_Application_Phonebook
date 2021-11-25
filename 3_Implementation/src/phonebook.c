@@ -26,7 +26,7 @@ void deleterecord();
 void searchrecord();
 int main()
 {
-    system("color 5f");
+    system("color 0f");
     start();
     return 0;
 }

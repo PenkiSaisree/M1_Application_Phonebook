@@ -15,6 +15,7 @@ struct person
     char citision_no[20];
 
     };
+//All function declaration
 void menu();
 void got();
 void start();
@@ -24,18 +25,22 @@ void listrecord();
 void modifyrecord();
 void deleterecord();
 void searchrecord();
+//Program starts here
 int main()
 {
     system("color 0f");
     start();
     return 0;
 }
+//To go back to main function to start again
 void back()
 {
     start();
 }
+//To start the main function
 void start()
 {
+    //To print the menu function
     menu();
 }
 void menu()
@@ -46,6 +51,7 @@ printf("\t\t**********WELCOME TO PHONEBOOK*************");
 printf("\n\n\t\t\t  MENU\t\t\n\n");
 printf("\t1.Add New   \t2.List   \t3.Exit  \n\t4.Modify \t5.Search\t6.Delete");
 
+//Choosing any case in the menu function by using switch
 switch(getch())
 {
     case '1':
@@ -71,13 +77,16 @@ switch(getch())
 menu();
 }
 }
+        //This function used for adding individual or multiple records
         void addrecord()
 {
         system("cls");
         FILE *f;
         struct person p;
+        //used to open a file to perform various operations 
         f=fopen("project","ab+");
         printf("\n Enter name: ");
+        //Declaring library function 
         got(p.name);
         printf("\nEnter the address: ");
         got(p.address);
@@ -93,11 +102,13 @@ menu();
          got(p.mail);
         printf("\nEnter citizen no:");
         got(p.citision_no);
+        //function writes the data specified by the void pointer 
         fwrite(&p,sizeof(p),1,f);
-
+      
+      //used for output stream to buffer
       fflush(stdin);
         printf("\nrecord saved");
-
+//deletes all buffers that are associated with the stream before closing it
 fclose(f);
 
     printf("\n\nEnter any key");
@@ -106,6 +117,7 @@ fclose(f);
     system("cls");
     menu();
 }
+//Declaring the function - listrecord
 void listrecord()
 {
     struct person p;
@@ -117,6 +129,7 @@ printf("\nfile opening error in listing :");
 
 exit(1);
 }
+//Indicates the no.of bytes to the each element
 while(fread(&p,sizeof(p),1,f)==1)
 {
      printf("\n\n\n YOUR RECORD IS\n\n ");
@@ -131,6 +144,7 @@ fclose(f);
     system("cls");
 menu();
 }
+//Declaring the searchrecord
 void searchrecord()
 {
     struct person p;
@@ -164,6 +178,7 @@ while(fread(&p,sizeof(p),1,f)==1)
     system("cls");
 menu();
 }
+//Declaring the function - deleterecord
 void deleterecord()
 {
     struct person p;
@@ -222,6 +237,7 @@ void deleterecord()
 menu();
 }
 
+//Declaring the function - modifyrecord
 void modifyrecord()
 {
     int c;
@@ -329,4 +345,3 @@ void got(char *name)
     }while(c!=13);
       *(name+i)='\0';
 }
-

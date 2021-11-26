@@ -15,15 +15,6 @@ struct person
     char citision_no[20];
 
     };
-//All function declaration
-void addrecord();
-//Program starts here
-int main()
-{
-    system("color 0f");
-    start();
-    return 0;
-}
         //This function used for adding individual or multiple records
         void addrecord()
 {
@@ -61,8 +52,6 @@ fclose(f);
     printf("\n\nEnter any key");
 
 	 getch();
-    system("cls");
-    menu();
 }
 
 

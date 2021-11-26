@@ -48,7 +48,6 @@ printf("\t1.Add New   \t2.List   \t3.Exit  \n\t4.Modify \t5.Search\t6.Delete");
 
 menu();
 }
-}
         //This function used for adding individual or multiple records
         void addrecord()
 {

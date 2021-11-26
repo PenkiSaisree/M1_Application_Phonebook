@@ -16,10 +16,6 @@ struct person
 
     };
 //All function declaration
-void menu();
-void got();
-void start();
-void back();
 void addrecord();
 //Program starts here
 int main()
@@ -27,17 +23,6 @@ int main()
     system("color 0f");
     start();
     return 0;
-}
-//To go back to main function to start again
-void back()
-{
-    start();
-}
-//To start the main function
-void start()
-{
-    //To print the menu function
-    menu();
 }
 void menu()
 {

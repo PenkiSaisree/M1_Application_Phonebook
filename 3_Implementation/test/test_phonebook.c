@@ -15,7 +15,6 @@ struct person
     char citision_no[20];
 
     };
-        //This function used for adding individual or multiple records
         void addrecord()
 {
         system("cls");

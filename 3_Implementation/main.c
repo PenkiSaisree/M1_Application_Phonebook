@@ -9,17 +9,6 @@ int main()
     start();
     return 0;
 }
-//To go back to main function to start again
-void back()
-{
-    start();
-}
-//To start the main function
-void start()
-{
-    //To print the menu function
-    menu();
-}
       //This function used for adding individual or multiple records
         void addrecord()
 {
